@@ -1,0 +1,6 @@
+{
+  "name": "Skyrim Wars",
+  "description": "Tactical faction war strategy game across forts, holds, and mines of Skyrim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
